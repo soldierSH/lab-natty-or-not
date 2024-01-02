@@ -9,7 +9,7 @@ Um podcast de 2 minutos que fala sobre o terminal Linux.
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Criei o podcast utilizando o Eleven Labs para gravação e edição de áudio, garantindo qualidade sonora. O Description foi usado para planejamento e organização de episódios.
 
 ## 🚀 Resultados
 O podcast fala sobre aspectos importantes para quem não conhece muito sobre o terminal Linux e sua importância, bem como a história do surgimento do SO.
