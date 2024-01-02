@@ -4,9 +4,9 @@
 Um podcast de 2 minutos que fala sobre o terminal Linux.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
 Criei o podcast utilizando o Eleven Labs para gravação e edição de áudio, garantindo qualidade sonora. O Description foi usado para planejamento e organização de episódios.
